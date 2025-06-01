@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Karishma Tallreja!
 
-<!--
-**karishma-tallreja/karishma-tallreja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore @ University of South Florida  
+🔐 Cybersecurity Major 
+💡 Passionate about digital forensics, network security, and secure software
+🌱 Currently learning: DFIR tools like **KAPE, Autopsy, Velociraptor**, Python, Linux, and CTFs  
+📁 Working on: **Network Intrusion Detection System (NIDS)**
+ 
 
-Here are some ideas to get you started:
+## 🌐 How to Reach Me
+- 📧 Email: **karishmatalreja76@gmail.com**  
+- 💼 LinkedIn: (www.linkedin.com/in/karishmatallreja9b548126b)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Fact
+I love blending creativity and cybersecurity—whether it’s building tools, raising awareness, or protecting digital spaces!
